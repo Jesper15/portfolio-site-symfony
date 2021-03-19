@@ -1,0 +1,12 @@
+{
+  "name": "jesper/portfolio",
+  "description": "De portfolio site van Jesper",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Jesper"
+    }
+  ],
+  "require": {
+  }
+}

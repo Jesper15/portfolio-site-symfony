@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fotosprojecten {
+    display: flex;
+    gap: 5px;
+}
+
+.fotosprojecten {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.overmij {
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 75px;
+}
+
+.tekstport {
+    text-align: center;
+}
+
+.tekstport h1 {
+    color: rgb(255, 145, 0);
+}
